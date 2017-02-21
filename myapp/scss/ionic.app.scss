@@ -1,0 +1,14 @@
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.button {
+	background-color: green;
+	/* Green */
+	    border: none;
+	color: green;
+	padding: 10px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 40px;
+}
+
